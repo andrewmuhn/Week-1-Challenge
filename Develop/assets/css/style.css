@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* * The following code references the header tag and child elements */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,6 +70,7 @@ p {
     margin-left: 25px;
 }
 
+/* * The following code references the section tag and child elements */
 .content {
     width: 75%;
     display: inline-block;
@@ -129,6 +131,8 @@ p {
     font-size: 36px;
 }
 
+
+/* *The following code references the aside tag and child elements */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +192,7 @@ p {
     max-width: 150px;
 }
 
+/* *The following code references the footer tag and child elements */
 .footer {
     padding: 30px;
     clear: both;
